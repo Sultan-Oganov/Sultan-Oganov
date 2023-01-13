@@ -12,7 +12,7 @@
   <a href="https://t.me/Sultan_Oganov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/sultan-oganov-25410b1b9/">
+  <a href="https://www.linkedin.com/in/sultan-oganov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
